@@ -1,0 +1,9 @@
+{
+  "name": "Chaloride",
+  "description": "Chaloride: A ride-sharing app for booking bikes, cars, and autos in Basavakalyan, featuring an AI chatbot, voice assistant, and local exploration tools powered by Gemini.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
